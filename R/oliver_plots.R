@@ -15,4 +15,5 @@ tall_table <- survey %>%
 
 ggplot(tall_table, aes(x = group, y = freq_vote)) +
   geom_bar(stat = "identity", width = 0.5) +
-  coord_flip()
+  coord_flip() +
+  labs(x = "", y = "Percent voting regularly in local elections")
