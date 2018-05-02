@@ -1,0 +1,19 @@
+---
+title: "Let’s start writing this fucking paper"
+author: "Jay Lee"
+date: "May 5, 2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+load("data/survey.RData")
+```
+
+
+A previous paper written for the class detailed my grievances with some of the methods used in J. Eric Oliver's *Local Elections and the Politics of Small-Scale Democracy*. This paper seeks to implement some of my recommendations for better data usage and more relevant variable choice in analysis to better understand "Who Votes".
+
+We begin by trying to recreate Oliver's results, to better approximate his methods and ensure similarity when proposing changes. Unfortunately, no variable for "town population" exists in the 1990 American Citizen Participation Study (ACPS) that Oliver draws most of the results in this study from, so some data joins were necessary to combine census data with the ZIP code information from the ACPS to achieve a measure of community size. These joins are a potential source of error in the conclusions presented here, as not all relevant data from 1990 was available and some more modern sources (such as a file matching ZIP codes to ZIP Code Tabulation Areas used in the 2010 census) had to be substituted. While these match in general, there are cases of ZIP code boundaries changing since 1990 and even some ZIP codes being eliminated since then. In addition, since ZIP codes cross political boundaries, any given ZIP code has multiple towns (and thus potential population measures) that fall within it. To decide which subjects lived in "small towns" by Oliver's definition (populations less than 100,000), we took the population of a subject's town to be that of the largest town (census-designated place, in the data) with land inside the boundary of the subject's reported ZIP code. With all of this in mind, these results should be considered as proof of concept rather than fully explanatory conclusions.
