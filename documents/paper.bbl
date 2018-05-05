@@ -1,0 +1,247 @@
+\begin{thebibliography}{10}
+
+\bibitem{infer}
+Andrew Bray, Chester Ismay, Ben Baumer, and Mine Cetinkaya-Rundel.
+\newblock {\em infer: Tidy Statistical Inference}, 2018.
+\newblock R package version 0.1.1.
+
+\bibitem{potholes}
+Craig~M. Burnett and Vladimir Kogan.
+\newblock The politics of potholes: Service quality and retrospective voting in
+  local elections.
+\newblock {\em The Journal of Politics}, 79(1):302--314, 2017.
+
+\bibitem{issue}
+Edward~G. Carmines and James~A. Stimson.
+\newblock The two faces of issue voting.
+\newblock {\em The American Political Science Review}, 74(1):78--91, 1980.
+
+\bibitem{whovotespew}
+Pew~Research Center.
+\newblock Who votes, who doesn't, and why.
+\newblock
+  \url{http://www.people-press.org/2006/10/18/who-votes-who-doesnt-and-why/},
+  October 18, 2006.
+
+\bibitem{nonvoters}
+Pew~Research Center.
+\newblock Nonvoters: Who they are, what they think.
+\newblock
+  \url{http://www.people-press.org/2012/11/01/nonvoters-who-they-are-what-they-think/},
+  November 1, 2012.
+
+\bibitem{party_nonvoter}
+Pew~Research Center.
+\newblock The party of nonvoters.
+\newblock
+  \url{http://www.people-press.org/2014/10/31/the-party-of-nonvoters-2/},
+  October 31, 2014.
+
+\bibitem{dropoff}
+Pew~Research Center.
+\newblock How 'drop-off' voters differ from consistent voters and nonvoters.
+\newblock
+  \url{http://www.people-press.org/2017/09/14/how-drop-off-voters-differ-from-consistent-voters-and-non-voters/},
+  September 14, 2017.
+
+\bibitem{xtable}
+David~B. Dahl.
+\newblock {\em xtable: Export Tables to LaTeX or HTML}, 2016.
+\newblock R package version 1.8-2.
+
+\bibitem{mit}
+MIT~Election Data and Science Lab.
+\newblock Voter turnout.
+\newblock \url{https://electionlab.mit.edu/research/voter-turnout}.
+
+\bibitem{retro}
+Morris~P. Fiorina.
+\newblock {\em Retrospective Voting in {American} National Elections}.
+\newblock Yale University Press.
+
+\bibitem{glmnet}
+Jerome Friedman, Trevor Hastie, and Robert Tibshirani.
+\newblock Regularization paths for generalized linear models via coordinate
+  descent.
+\newblock {\em Journal of Statistical Software}, 33(1):1--22, 2010.
+
+\bibitem{hajnal}
+Zoltan Hajnal and Jessica Trounstine.
+\newblock Where turnout matters: The influence of turnout on local government
+  spending.
+\newblock \url{http://www.nyu.edu/gsas/dept/politics/seminars/hajnal_s06.pdf}.
+
+\bibitem{wapo}
+Zoltan~L. Hajnal.
+\newblock Where does america’s low voter turnout matter the most? in local
+  elections.
+\newblock Washington Post,
+  \url{https://www.washingtonpost.com/news/monkey-cage/wp/2015/03/24/where-does-americas-low-voter-turnout-matter-the-most-in-local-elections/?utm_term=.3a34c119c131}.
+
+\bibitem{petting}
+Daniel~J. Hopkins and Lindsay~M. Pettingill.
+\newblock Retrospective voting in big-city us mayoral elections.
+\newblock {\em Political Science Research and Methods}, page 1–18, 2017.
+
+\bibitem{zcta_to_cdp}
+{John Snow, Inc.}
+\newblock 2010 {ZCTA} to place relationship file.
+\newblock American Academy of Family Physicians,
+  \url{https://www.udsmapper.org/docs/zip_to_zcta_2017.xlsx}.
+
+\bibitem{brookings}
+Elaine~C. Kamarck.
+\newblock Increasing turnout in congressional primaries.
+\newblock Center for Effective Public Management at Brookings,
+  \url{https://www.brookings.edu/wp-content/uploads/2016/06/KamarckIncreasing-Turnout-in-Congressional-Primaries72614.pdf}.
+
+\bibitem{schools}
+J.~Celeste Lay and Tyburski~Michael D.
+\newblock The buck stops with the education mayor: Mayoral control and local
+  test scores in u.s. urban mayoral elections.
+\newblock {\em Politics \& Policy}, 45(6):964--1002.
+
+\bibitem{whovotesnow}
+Jan~E. Leighley and Jonathan Nagler.
+\newblock {\em Who Votes Now? Demographics, Issues, Inequality, and Turnout in
+  the {United States}}.
+\newblock Princeton University Press, 2013.
+
+\bibitem{usvote}
+LOCelections.
+\newblock Fixing the problem of low voter turnout in us local elections: A
+  data-driven solution.
+\newblock U.S. Vote Foundation,
+  \url{https://www.usvotefoundation.org/sites/default/files/US_Vote_LOCelections_Whitepaper.pdf1}.
+
+\bibitem{demos}
+Sean McElwee.
+\newblock Why voting matters: Large disparities in turnout benefit the donor
+  class.
+\newblock Demos,
+  \url{http://www.demos.org/publication/why-voting-matters-large-disparities-turnout-benefit-donor-class},
+  September 16, 2015.
+
+\bibitem{RColorBrewer}
+Erich Neuwirth.
+\newblock {\em RColorBrewer: ColorBrewer Palettes}, 2014.
+\newblock R package version 1.1-2.
+
+\bibitem{oliver12}
+J.~Eric Oliver, Shang~E. Ha, and Zachary Callen.
+\newblock {\em Local Elections and the Politics of Small-Scale Democracy}.
+\newblock Princeton University Press, 2012.
+
+\bibitem{patchwork}
+Thomas~Lin Pedersen.
+\newblock {\em patchwork: The Composer of ggplots}, 2017.
+\newblock R package version 0.0.1.
+
+\bibitem{p_val}
+Belinda Phipson and Gordon~K. Smyth.
+\newblock Permutation p-values should never be zero: Calculating exact p-values
+  when permutations are randomly drawn.
+\newblock {\em Statistical Applications in Genetics and Molecular Biology},
+  9(1), October 31, 2010.
+
+\bibitem{census}
+{Population Estimates Program, Population Division, U.S. Census Bureau}.
+\newblock Population estimates for states, counties, places and minor civil
+  divisions: Annual time series, {April} 1, 1990 census to {July} 1, 2000
+  estimate.
+\newblock U.S. Department of Commerce,
+  \url{https://www.census.gov/data/tables/time-series/demo/popest/2000-subcounties-eval-estimates.html},
+  November 5, 2005.
+
+\bibitem{foreign}
+{R Core Team}.
+\newblock {\em foreign: Read Data Stored by 'Minitab', 'S', 'SAS', 'SPSS',
+  'Stata', 'Systat', 'Weka', 'dBase', ...}, 2017.
+\newblock R package version 0.8-69.
+
+\bibitem{R}
+{R Core Team}.
+\newblock {\em R: A Language and Environment for Statistical Computing}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria, 2017.
+
+\bibitem{shaffer}
+Stephen~D. Shaffer.
+\newblock Policy difference between voters and non-voters in {American}
+  elections.
+\newblock {\em Political Research Quarterly}, 35(4):496--510, 1982.
+
+\bibitem{mayor}
+Portland~State University.
+\newblock Who votes for mayor?
+\newblock \url{http://www.whovotesformayor.org/}.
+
+\bibitem{tribune}
+Alexa Ura and Ryan Murphy.
+\newblock Why is texas voter turnout so low? demographics play a big role.
+\newblock Texas Tribune,
+  \url{https://www.texastribune.org/2018/02/23/texas-voter-turnout-electorate-explainer/},
+  February 23, 2018.
+
+\bibitem{zip_to_zcta}
+{U.S. Census Bureau}.
+\newblock {ZIP} code to {ZCTA} crosswalk.
+\newblock U.S. Department of Commerce,
+  \url{http://www2.census.gov/geo/docs/maps-data/data/rel/zcta_place_rel_10.txt}.
+
+\bibitem{screener}
+Sidney Verba, Kay~Lehman Schlozman, Henry~E. Brady, and Norman Nie.
+\newblock American citizen participation screener study.
+\newblock
+  \url{https://www.openicpsr.org/openicpsr/project/100384/version/V1/view?path=/openicpsr/100384/fcr:versions/V1},
+  1990.
+
+\bibitem{acps}
+Sidney Verba, Kay~Lehman Schlozman, Henry~E. Brady, and Norman Nie.
+\newblock American citizen participation study, 1990.
+\newblock Inter-university Consortium for Political and Social Research
+  [distributor], \url{https://doi.org/10.3886/ICPSR06635.v1}, March 6, 1996.
+
+\bibitem{scales}
+Hadley Wickham.
+\newblock {\em scales: Scale Functions for Visualization}.
+\newblock R package version 0.5.0.9000.
+
+\bibitem{ggplot2}
+Hadley Wickham.
+\newblock {\em ggplot2: Elegant Graphics for Data Analysis}.
+\newblock Springer-Verlag New York, 2016.
+
+\bibitem{forcats}
+Hadley Wickham.
+\newblock {\em forcats: Tools for Working with Categorical Variables
+  (Factors)}, 2018.
+\newblock R package version 0.3.0.
+
+\bibitem{stringr}
+Hadley Wickham.
+\newblock {\em stringr: Simple, Consistent Wrappers for Common String
+  Operations}, 2018.
+\newblock R package version 1.3.0.
+
+\bibitem{readxl}
+Hadley Wickham and Jennifer Bryan.
+\newblock {\em readxl: Read Excel Files}.
+\newblock http://readxl.tidyverse.org, https://github.com/tidyverse/readxl.
+
+\bibitem{dplyr}
+Hadley Wickham, Romain Francois, Lionel Henry, and Kirill Müller.
+\newblock {\em dplyr: A Grammar of Data Manipulation}, 2017.
+\newblock R package version 0.7.4.
+
+\bibitem{tidyr}
+Hadley Wickham and Lionel Henry.
+\newblock {\em tidyr: Easily Tidy Data with 'spread()' and 'gather()'
+  Functions}, 2018.
+\newblock R package version 0.8.0.
+
+\bibitem{whovotes}
+Raymond~E. Wolfinger and Steven~J. Rosenstone.
+\newblock {\em Who Votes?}
+\newblock Yale University Press, 1980.
+
+\end{thebibliography}

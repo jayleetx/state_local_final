@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: paper.aux
+The style file: plain.bst
+Database file #1: final.bib.bib
+Warning--empty year in retro
+Warning--empty year in schools
+You've used 41 entries,
+            2118 wiz_defined-function locations,
+            692 strings with 10324 characters,
+and the built_in function-call counts, 9910 in all, are:
+= -- 928
+> -- 445
+< -- 1
++ -- 183
+- -- 138
+* -- 495
+:= -- 1698
+add.period$ -- 123
+call.type$ -- 41
+change.case$ -- 175
+chr.to.int$ -- 0
+cite$ -- 43
+duplicate$ -- 376
+empty$ -- 876
+format.name$ -- 138
+if$ -- 2084
+int.to.chr$ -- 0
+int.to.str$ -- 41
+missing$ -- 17
+newline$ -- 208
+num.names$ -- 82
+pop$ -- 277
+preamble$ -- 1
+purify$ -- 151
+quote$ -- 0
+skip$ -- 313
+stack$ -- 0
+substring$ -- 314
+swap$ -- 66
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 154
+warning$ -- 2
+while$ -- 88
+width$ -- 43
+write$ -- 408
+(There were 2 warnings)

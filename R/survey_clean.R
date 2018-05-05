@@ -30,7 +30,8 @@ screener_vars <- c("screener_id" = "SCRNRID",
                    "income" = "income.",
                    "correct_vote_age" = "agevote.",
                    "correct_house_maj" =  "majpart.",
-                   "zip" = "zip.")
+                   "zip" = "zip.",
+                   "race" = "race.")
 
 sub_acps <- select(acps, acps_vars)
 colnames(sub_acps) <- names(acps_vars)
